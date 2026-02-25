@@ -102,6 +102,12 @@ chmod +x ~/.cursor/notify-complete.sh
 
 </details>
 
+## Uninstall
+
+```bash
+./uninstall.sh
+```
+
 ## How It Works
 
 1. tmux에서 AI 에이전트가 작업을 완료하거나 입력을 기다리면 hook이 실행됩니다
